@@ -1,0 +1,127 @@
+2019-12-16 09:34:06 [http-nio-8282-exec-2] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:34:18 [http-nio-8282-exec-6] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:34:18 [http-nio-8282-exec-6] INFO  AdminaminitiesDAOimpl:24 - Add Amenities method called
+  2019-12-16 09:34:18 [http-nio-8282-exec-6] INFO  AdminaminitiesDAOimpl:26 - Add Amenities method prepared statement called
+  2019-12-16 09:34:18 [http-nio-8282-exec-6] INFO  Addamenities:47 - Successfully One Amenity Inserted.
+  2019-12-16 09:34:18 [http-nio-8282-exec-6] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:34:23 [http-nio-8282-exec-7] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:34:30 [http-nio-8282-exec-10] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:34:30 [http-nio-8282-exec-10] INFO  Updateamenities:48 - Update amenities method prepared statement called
+  2019-12-16 09:34:30 [http-nio-8282-exec-10] INFO  Updateamenities:57 - Successfully One Record Deleted...
+  2019-12-16 09:34:30 [http-nio-8282-exec-10] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:34:37 [http-nio-8282-exec-1] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:34:37 [http-nio-8282-exec-1] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:34:37 [http-nio-8282-exec-1] INFO  Deleteamenities:52 - Successfully One Record Deleted...
+  2019-12-16 09:34:38 [http-nio-8282-exec-1] INFO  SpaceDBUtil:26 - Connection Established Successfully
+  2019-12-16 09:36:11 [http-nio-8282-exec-2] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:12 [http-nio-8282-exec-2] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:12 [http-nio-8282-exec-2] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:12 [http-nio-8282-exec-2] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:12 [http-nio-8282-exec-1] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:12 [http-nio-8282-exec-1] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:12 [http-nio-8282-exec-1] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:12 [http-nio-8282-exec-1] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:12 [http-nio-8282-exec-6] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:12 [http-nio-8282-exec-6] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:12 [http-nio-8282-exec-6] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:12 [http-nio-8282-exec-6] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:12 [http-nio-8282-exec-4] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:12 [http-nio-8282-exec-4] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:12 [http-nio-8282-exec-4] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:12 [http-nio-8282-exec-4] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-8] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-8] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:13 [http-nio-8282-exec-8] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:13 [http-nio-8282-exec-8] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-10] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-10] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:13 [http-nio-8282-exec-10] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:13 [http-nio-8282-exec-10] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-5] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-5] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:13 [http-nio-8282-exec-5] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:13 [http-nio-8282-exec-5] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-9] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:13 [http-nio-8282-exec-9] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:13 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-3] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-3] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:13 [http-nio-8282-exec-3] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:13 [http-nio-8282-exec-3] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-7] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-7] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:13 [http-nio-8282-exec-7] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:13 [http-nio-8282-exec-7] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-11] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:13 [http-nio-8282-exec-11] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:13 [http-nio-8282-exec-11] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:13 [http-nio-8282-exec-11] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-1] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-1] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:14 [http-nio-8282-exec-1] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:14 [http-nio-8282-exec-1] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-6] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-6] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:14 [http-nio-8282-exec-6] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:14 [http-nio-8282-exec-6] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-4] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-4] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:14 [http-nio-8282-exec-4] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:14 [http-nio-8282-exec-4] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-8] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-8] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:14 [http-nio-8282-exec-8] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:14 [http-nio-8282-exec-8] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-12] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-12] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:14 [http-nio-8282-exec-12] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:14 [http-nio-8282-exec-12] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-5] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:14 [http-nio-8282-exec-5] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:14 [http-nio-8282-exec-5] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:14 [http-nio-8282-exec-5] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:15 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:15 [http-nio-8282-exec-9] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:15 [http-nio-8282-exec-9] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:15 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:15 [http-nio-8282-exec-3] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:15 [http-nio-8282-exec-3] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:36:15 [http-nio-8282-exec-3] INFO  Deleteamenities:57 - Record Not able to deleted.Please try again
+  2019-12-16 09:36:15 [http-nio-8282-exec-3] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:28 [http-nio-8282-exec-11] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:28 [http-nio-8282-exec-11] INFO  AdminaminitiesDAOimpl:24 - Add Amenities method called
+  2019-12-16 09:36:28 [http-nio-8282-exec-11] INFO  AdminaminitiesDAOimpl:26 - Add Amenities method prepared statement called
+  2019-12-16 09:36:28 [http-nio-8282-exec-11] INFO  Addamenities:47 - Successfully One Amenity Inserted.
+  2019-12-16 09:36:28 [http-nio-8282-exec-11] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:31 [http-nio-8282-exec-1] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:38 [http-nio-8282-exec-13] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:36:38 [http-nio-8282-exec-13] INFO  Updateamenities:48 - Update amenities method prepared statement called
+  2019-12-16 09:36:38 [http-nio-8282-exec-13] INFO  Updateamenities:57 - Successfully One Record Deleted...
+  2019-12-16 09:36:38 [http-nio-8282-exec-13] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:39:26 [http-nio-8282-exec-12] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:39:27 [http-nio-8282-exec-12] INFO  Updateamenities:48 - Update amenities method prepared statement called
+  2019-12-16 09:39:27 [http-nio-8282-exec-12] INFO  Updateamenities:57 - Successfully One Record Deleted...
+  2019-12-16 09:39:27 [http-nio-8282-exec-12] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:39:30 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:39:30 [http-nio-8282-exec-9] INFO  Deleteamenities:46 - Delete Amenities method prepared statement called
+  2019-12-16 09:39:30 [http-nio-8282-exec-9] INFO  Deleteamenities:52 - Successfully One Record Deleted...
+  2019-12-16 09:39:30 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:59:01 [http-nio-8282-exec-4] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 09:59:01 [http-nio-8282-exec-4] INFO  UserDAOimpl:44 - User Register method called
+  2019-12-16 10:01:20 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 10:01:20 [http-nio-8282-exec-9] INFO  UserDAOimpl:44 - User Register method called
+  2019-12-16 10:01:48 [http-nio-8282-exec-8] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 10:01:48 [http-nio-8282-exec-8] INFO  UserDAOimpl:24 -  User login method called
+  2019-12-16 10:01:48 [http-nio-8282-exec-2] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 10:01:48 [http-nio-8282-exec-2] INFO  UserDAOimpl:24 -  User login method called
+  2019-12-16 10:01:52 [http-nio-8282-exec-3] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 10:02:10 [http-nio-8282-exec-9] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-16 10:02:10 [http-nio-8282-exec-9] INFO  UserDAOimpl:91 - Reservation method called
+  2019-12-17 15:53:31 [http-nio-8282-exec-8] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-17 15:53:31 [http-nio-8282-exec-8] INFO  UserDAOimpl:24 -  User login method called
+  2019-12-23 17:43:32 [http-nio-8282-exec-4] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-23 17:43:33 [http-nio-8282-exec-4] INFO  UserDAOimpl:44 - User Register method called
+  2019-12-23 17:44:01 [http-nio-8282-exec-5] INFO  SpaceDBUtil:20 - Connection Established Successfully
+  2019-12-23 17:44:01 [http-nio-8282-exec-5] INFO  UserDAOimpl:24 -  User login method called
+  
